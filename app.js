@@ -1,1 +1,1 @@
-document.getElementsByClassName(".api");
+document.getElementsByClassName('comment');
